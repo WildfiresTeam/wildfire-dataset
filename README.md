@@ -66,7 +66,7 @@ This project is licensed under the GPL License. See the LICENSE file for more de
 
 ## Authors and Acknowledgments
 
-- **Syed Haidar Ali** - Project lead and initial work
+- **Syed Haider Ali** - Project lead and initial work
 - **Sunny Zhang**
 - **Saanvi Mhatre**
 
